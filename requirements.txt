@@ -1,0 +1,9 @@
+streamlit==1.51.0
+pandas==2.3.2
+plotly==6.3.1
+wordcloud==1.9.4
+nltk==3.9.2
+spacy==3.8.7
+transformers==4.57.1
+torch==2.9.0
+gunicorn
